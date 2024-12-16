@@ -1,0 +1,4 @@
+RPi.GPIO
+paho-mqtt
+adafruit-circuitpython-dht
+rpi_lcd
